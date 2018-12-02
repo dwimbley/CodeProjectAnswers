@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeProjectAnswers", "CodeProjectAnswers\CodeProjectAnswers.csproj", "{D5B820DF-3EC2-4038-99A7-F9E8676B02A6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowtoconvertJSONtodatatableinCsharp1268724", "HowtoconvertJSONtodatatableinCsharp1268724\HowtoconvertJSONtodatatableinCsharp1268724.csproj", "{A8524ADF-C97D-4011-AD35-A25B0E62D26A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Howtoadtheabilityforpersonstoselectthebr1267164", "Howtoadtheabilityforpersonstoselectthebr1267164\Howtoadtheabilityforpersonstoselectthebr1267164.csproj", "{55F1E905-ACC0-4F4C-B8C4-A12E9B1EF3CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D5B820DF-3EC2-4038-99A7-F9E8676B02A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D5B820DF-3EC2-4038-99A7-F9E8676B02A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D5B820DF-3EC2-4038-99A7-F9E8676B02A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D5B820DF-3EC2-4038-99A7-F9E8676B02A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8524ADF-C97D-4011-AD35-A25B0E62D26A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8524ADF-C97D-4011-AD35-A25B0E62D26A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8524ADF-C97D-4011-AD35-A25B0E62D26A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8524ADF-C97D-4011-AD35-A25B0E62D26A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55F1E905-ACC0-4F4C-B8C4-A12E9B1EF3CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55F1E905-ACC0-4F4C-B8C4-A12E9B1EF3CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55F1E905-ACC0-4F4C-B8C4-A12E9B1EF3CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55F1E905-ACC0-4F4C-B8C4-A12E9B1EF3CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
